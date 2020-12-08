@@ -1,0 +1,2 @@
+# Notes
+Simple SQLite app
